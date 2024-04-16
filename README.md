@@ -1,2 +1,5 @@
 # testrepo
-Repositary for  IBM Data Science course
+
+##Editing the file
+
+Repository for  IBM Data Science course.
